@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="quality">Quality</string>
+    <string name="language">Language</string>
+    <string name="episodes_series">Episodes and Series</string>
+    <string name="movies">Movies</string>
+    <string name="serials">Serials</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="best">The Best</string>
+</resources>
